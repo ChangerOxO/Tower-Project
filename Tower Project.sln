@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Project", "Tower Project.csproj", "{18241F45-8D66-EE8D-DC29-BE975ADA094E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Project.Plugins", "Tower Project.Plugins.csproj", "{4D8C18AC-D07F-36DF-90A7-4ADDB3F8328F}"
